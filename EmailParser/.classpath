@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/msgparser-1.12/msgparser-1.12/dist/msgparser-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dan/Desktop/poi-bin-3.10-FINAL-20140208/poi-3.10-FINAL/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

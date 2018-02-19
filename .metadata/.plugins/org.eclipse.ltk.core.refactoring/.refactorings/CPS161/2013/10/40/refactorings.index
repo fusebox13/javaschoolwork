@@ -1,0 +1,13 @@
+1380655621002	Rename package 'fileconcat'
+1380657267249	Rename resource 'stats.txt'
+1380660331999	Rename type 'quarterbackData'
+1380660348488	Rename type 'playerData'
+1380660378123	Rename field 'quarterbackDataArray'
+1380678882966	Rename method 'PieceMap'
+1380678946141	Rename method 'getDefaultPieceTypeForThisCol'
+1380678973567	Rename method 'getPieceTypeByCol'
+1380742749560	Delete element
+1380815095827	Rename local variable 'b'
+1380815114494	Rename local variable 'b2'
+1380815258541	Rename local variable 'buttonLabel'
+1380825014611	Delete element

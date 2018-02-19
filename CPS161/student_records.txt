@@ -1,0 +1,9 @@
+George Smith 3 20 1995 History
+Civil_War  3 3
+Russian_History 4 2
+WWII 4 3
+WWI 2 3
+Frank Thomas 4 20 1990 Math
+Algebra 3 4
+Calculus_I 4 5
+Calculus_II 3 5

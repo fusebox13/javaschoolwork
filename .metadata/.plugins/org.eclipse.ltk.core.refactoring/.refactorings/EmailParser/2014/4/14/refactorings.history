@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;EmailParser/Attn Joe Trainer -  Sam Student.msg&apos; to &apos;email.msg&apos;" description="Rename resource &apos;Attn Joe Trainer -  Sam Student.msg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Attn Joe Trainer -  Sam Student.msg" name="email.msg" stamp="1396667795623" updateReferences="true"/>
+</session>

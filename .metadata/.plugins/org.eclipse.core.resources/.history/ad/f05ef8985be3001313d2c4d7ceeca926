@@ -1,0 +1,43 @@
+package utopiantree;
+
+import java.util.Scanner;
+
+public class Solution {
+	
+	
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		int T;
+		
+		do {
+			T = input.nextInt();
+		} while(T < 1 || T > 10);
+		
+		int[] testCases = new int[T];
+		
+		for (int i = 0; i < testCases.length; i++) {
+			
+			testCases[i] = input.nextInt();
+			
+		}
+		
+		for (int i = 0; i < testCases.length; i++) {
+			int sum = 0;
+			for (int j = 0; j <= testCases[i]; j++){
+				
+				if (j%2 == 0)
+					sum+= 1;
+				else
+					sum = sum*2;
+				
+			}
+			System.out.println(sum);
+		}
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,31 @@
+package servicelane;
+
+import java.util.Scanner;
+
+public class Solution {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		
+		int N = input.nextInt();
+		int T = input.nextInt();
+		
+		int[] width = new int[N];
+		
+		for (int i = 0; i < N; i++) {
+			width[i] = input.nextInt();
+		}
+		
+		System.out.println(N + "," + T);
+		
+		for (int i = 0; i < N; i++)
+			System.out.println(width[i]);
+		
+
+	}
+
+}

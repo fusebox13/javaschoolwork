@@ -1,0 +1,10 @@
+?
+quit
+delete filename
+rename oldFilename newFilename
+size filename
+lastModified filename
+list dir
+printFile filename
+createFile filename 
+mkdir dir
